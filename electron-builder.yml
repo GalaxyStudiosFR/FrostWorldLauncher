@@ -1,5 +1,5 @@
 appId: 'frostworldlauncher'
-productName: 'Frost World Launcher'
+productName: 'Frost-World-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2022-2024 FrostWorld Studio'
