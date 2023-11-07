@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Frost World Studio"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaTwitterURL = "#"
+mediaGitHubURL = "https://frostworld.studio"
+mediaTwitterURL = "https://twitter.com/FWStudio_Off"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaYouTubeURL = "www.youtube.com/@frostworldstudio"
+mediaDiscordURL = "https://discord.com/invite/bNE2jBfFWQ"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/GalaxyStudiosFR/FrostWorldLauncher"
+supportLink = "https://github.com/GalaxyStudiosFR/FrostWorldLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "BIENVENUE SUR FROST WORLD STUDIO"
+welcomeDescription = "Vous vous apprétez à rejoindre une aventure hors du commun, dans laquelle vous pourrez imaginer votre propre personnage dans un univers créé par notre équipe. Un univers de remplis de monstres que vous pourrez combattre et vous faire des ennemis, ou les épagner et vous faire... des amis ? Vous pourrez également rejoindre un univers dans lequel vous pourriez commencer dans une sorte de prison, remplis de scientifiques et de gardes armés jusqu'au dents, pour réaliser des expériences sur des entités surnaturelles... Qui sait ce qui vous attend sur nos serveurs de jeu ?"
+welcomeDescCTA = "Vous êtes à quelques clics de rejoindre l'aventure !"
